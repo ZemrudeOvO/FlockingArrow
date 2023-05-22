@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1QWcuSud24vutCynh6bjYhWT4fgkLUvmEDHDh1dXX1B+ChL0fTOEfabhdiSO5YETBe+r91vJNfwcmUAC9rTxRA==",
+  "success": true,
+  "projectFilePath": "/Users/zemrude/Documents/csharp/FlockingArrow/FlockingArrow/FlockingArrow.csproj",
+  "expectedPackageFiles": [
+    "/Users/zemrude/.nuget/packages/raylib-cs/4.5.0/raylib-cs.4.5.0.nupkg.sha512",
+    "/Users/zemrude/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
