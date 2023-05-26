@@ -75,7 +75,8 @@ namespace FlockingArrow
             Rlgl.rlPushMatrix();
             Rlgl.rlTranslatef(position.X, position.Y, 0);
             Rlgl.rlRotatef(theta * 180 / MathF.PI, 0, 0, 1);
-            Raylib.DrawTriangle(new Vector2(0, -r * 2), new Vector2(-r, r * 2), new Vector2(r, r * 2), Color.WHITE);
+            //Raylib.DrawTriangle(new Vector2(0, -r * 2), new Vector2(-r, r * 2), new Vector2(r, r * 2), Color.WHITE);
+            Raylib.DrawCircle(0, 0, r, Color.WHITE);
             Rlgl.rlPopMatrix();
 	    }
 
